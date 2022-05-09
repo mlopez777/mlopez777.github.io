@@ -157,6 +157,8 @@ a {
 .grid-about {
   grid-template-columns: 1.2fr 0.8fr;
   gap: 0;
+    row-gap: 4rem;
+    column-gap:  4rem;
   filter: drop-shadow(0px 12px 16px rgba(0, 0, 0, 0.2));  
 }
 
