@@ -87,7 +87,7 @@ a {
 .main-nav-list {
   list-style: none;
   display: flex;
-  align-items: right;
+  align-items: flex-end;
   gap: 4.8rem;
 }
 
