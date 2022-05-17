@@ -85,18 +85,23 @@ a {
 /* ****************** */
 
 .main-nav-list {
-  list-style: none;
-  display: flex;
-  align-items: flex-end;
-  gap: 4.8rem;
+  list-style-type: none;
+  margin:  0;
+  padding:  0;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow:  auto;
 }
 
 .main-nav-link {
-  display: inline-block;
+  display: block;
   text-decoration: none;
   color: #8b6890;
   font-weight: 400;
   font-size: 1.8rem;
+  padding:  8px 16px;
 }
 
 .main-nav-link.nav-cta {
