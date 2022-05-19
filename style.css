@@ -58,7 +58,6 @@ a {
   background-repeat:  no-repeat;
   background-position:  left top;
   background-attachment: scroll;
-  background-size: contain;
   min-height: 80rem;
 }
 
