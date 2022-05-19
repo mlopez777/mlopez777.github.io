@@ -57,6 +57,7 @@ a {
   background-image: url("Sebastian.jpg");
   background-repeat:  no-repeat;
   background-position:  left top;
+  background-attachment:  scroll;
   min-height: 80rem;
 }
 
